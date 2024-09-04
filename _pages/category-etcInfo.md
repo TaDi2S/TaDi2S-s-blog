@@ -1,9 +1,9 @@
 ---
-title: "blog"
+title: "기타개념"
 layout: archive
-permalink: /blog
+permalink: /etcInfo
 ---
 
 
-{% assign posts = site.categories.blog %}
+{% assign posts = site.categories.etcInfo %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

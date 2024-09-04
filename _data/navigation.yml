@@ -12,15 +12,18 @@ main:
   #   url: /sitemap/
 
 sidebar-category:
-- title: "카테고리"
-  children:
-    - title: "블로그"
-      url: "/blog"
-    - title: "카테고리B"
-    - title: "카테고리C"
-- title: "git 관련"
+- title: "개발관련"
   children:
     - title: "git 블로그"
-    children:
-      - title: "sadasd"
-- title: "개발관련"
+      url: "/gitBlog"
+    - title: "git 관련"
+      url: "/gitInfo"
+    - title: "C++"
+      url: "/cppInfo"
+    - title: "Java"
+      url: "/javaInfo"
+    - title: "Python"
+      url: "/pythonInfo"
+    - title: "기타개념"
+      url: "/etcInfo"
+- title: "기타"

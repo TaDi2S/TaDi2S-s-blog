@@ -1,11 +1,11 @@
 ---
 # Front Matter
 title: "minial-mistakes 관련 정리"
-categories: blog
+categories: gitBlog
 tags: jekyll, minial-mistakes, git page
 date: YYYY-MM-DD HH:MM:SS +09:00
 categories:
-  - blog
+  - gitBlog
 
 # 목차
 toc: true  
