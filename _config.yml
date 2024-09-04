@@ -12,6 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme             : "TaDi2S/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -81,6 +82,7 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
+future: true
 # SEO Related
 google_site_verification :
 bing_site_verification   :

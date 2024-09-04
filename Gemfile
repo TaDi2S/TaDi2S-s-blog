@@ -1,7 +1,8 @@
 source "https://rubygems.org"
-gemspecs
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+gem 'jekyll-include-cache'
+gem 'wdm', '>= 0.1.0'
+gem "jekyll", "~> 3.7"
 gem "minimal-mistakes-jekyll"
-gem 'base64'
-gem 'wdm', '>= 0.1.0', :platforms => [:mingw, :mswin, :x64_mingw, :jruby]
-gem "webrick", "~> 1.8"
-gem 'github-pages', group: :jekyll_plugins
