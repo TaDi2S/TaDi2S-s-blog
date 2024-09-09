@@ -22,7 +22,7 @@ title                    : "TaDi2s Blog"
 title_separator          : "-"
 subtitle                 : "개발전용"
 name                     : "TaDi2S"
-description              : "An amazing website."
+description              : "An small website."
 url                      : "https://tadi2s.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/TaDi2S/TaDi2S.github.io"
@@ -69,8 +69,8 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # , false (default) 사이트 우측 상단 검색 활성화
+search_full_content      : true # , false (default) 제목 + 내용까지도 검색할 것인지
 search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
@@ -117,7 +117,7 @@ analytics:
 author:
   name             : "TaDi2S"
   avatar           : "/assets/images/tardis.jfif"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an **small** developer."
   location         : "Republic of Korea"
   email            :
   links:
