@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 
 sidebar-category:
-- title: "개발관련"
+- title: "개발관련 지식"
   children:
     - title: "git 블로그"
       url: "/gitBlog"
@@ -24,6 +24,6 @@ sidebar-category:
       url: "/javaInfo"
     - title: "Python"
       url: "/pythonInfo"
-    - title: "기타개념"
+    - title: "기타 코딩 개념"
       url: "/etcInfo"
-- title: "기타"
+- title: "프로젝트"
