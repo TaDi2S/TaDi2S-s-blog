@@ -1,6 +1,6 @@
 ---
 # Front Matter
-title: "[Python 가상환경 생성 및 활성화]"
+title: "[Python] 가상환경 생성 및 활성화"
 categories: pythonInfo
 tags: python, venv
 date: YYYY-MM-DD HH:MM:SS +09:00

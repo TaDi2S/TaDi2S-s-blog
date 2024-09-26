@@ -1,6 +1,6 @@
 ---
 # Front Matter
-title: "[Python import와 from의 차이]"
+title: "[Python] import와 from의 차이"
 categories: pythonInfo
 tags: python, python-import, python-from
 date: YYYY-MM-DD HH:MM:SS +09:00
